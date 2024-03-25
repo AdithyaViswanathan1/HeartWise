@@ -1,4 +1,5 @@
-Hello. This is a rules-based chatbot called HeartWise. HeartWise is a chatbot which can talk about heart disease.
+# HeartWise
+This is a rules-based chatbot called HeartWise. HeartWise is a chatbot which can talk about heart disease.
 
 Here is a short description of all the files in this project:
 
@@ -11,9 +12,9 @@ Here is a short description of all the files in this project:
 - users directory: JSON files pertaining to each user
 - log.txt: List of websites scraped to create raw_scrape directory, cleaned_up directory, and knowledge base
 
-HOW TO RUN:
+## HOW TO RUN:
 
-- NOTE: Make sure the libaries listed in the file are downloaded in your local machine. (Most are pre-installed with Python so only a few need to be taken care of)
+- NOTE: Make sure the libaries listed in the following files are downloaded on your local machine. (Most are pre-installed with Python so only a few need to be taken care of)
 
 - (OPTIONAL) Run webcrawler.py. This will create/overwrite the files & directories: cleaned_up, raw_scrape, kb.json, knowledge_base.p, and log.txt
 
